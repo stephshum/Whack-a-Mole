@@ -1,0 +1,3 @@
+#include <stdint.h>
+#define KEY_LEFT 0x1 //0x2
+#define KEY_RIGHT 0x2 // 0x1
