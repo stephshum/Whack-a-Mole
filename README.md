@@ -23,6 +23,7 @@ The FRDM-K64F board connects to two peripheral devices: the SNES controller and 
 The following is a block diagram of our software system:
 
 ![](images/figure1.jpg)
+
 Figure 1: Schematic Block Diagram
 
 
